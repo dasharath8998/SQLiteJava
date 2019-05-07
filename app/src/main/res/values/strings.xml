@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLite Java</string>
+    <string-array name="city">
+        <item>Select</item>
+        <item>Hyderabad</item>
+        <item>Ahmedabad</item>
+        <item>Banglore</item>
+    </string-array>
+</resources>
